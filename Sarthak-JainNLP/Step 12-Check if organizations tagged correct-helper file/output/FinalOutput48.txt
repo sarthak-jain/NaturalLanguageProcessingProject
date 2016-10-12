@@ -1,0 +1,8 @@
+ORGANIZATION:
+LOCATION:.
+TITLE: Engineer,Engineer,Architect.
+DEGREE:.
+LANGUAGES: Python,PHP.
+TOOLS: Agile,Linux.
+EXPERIENCE: 2,5,years,experience,experience,Experience.
+

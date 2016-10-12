@@ -1,0 +1,8 @@
+ORGANIZATION: Hunter,Strategy,Hunter,Strategy
+LOCATION:.
+TITLE: Developer.
+DEGREE: Bachelor,degree,Master.
+LANGUAGES: REST,SOAP.
+TOOLS: enterprise,enterprise.
+EXPERIENCE: 10,years,experience,Experience.
+

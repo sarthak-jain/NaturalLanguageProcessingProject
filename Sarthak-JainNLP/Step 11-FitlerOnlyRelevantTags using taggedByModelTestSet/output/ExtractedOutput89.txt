@@ -1,0 +1,8 @@
+ORGANIZATION: CTO,Platform,and,Systems,Knowledge,Basic,ADO,Server,Implementing,OOA,OOD,Project,Planning,and,Project,Management,Maintain.
+LOCATION:.
+TITLE:.
+DEGREE:.
+LANGUAGES: SQL,Java,C,C++,HTML,JavaScript,SQL.
+TOOLS: Visual,Visual,ASP.
+EXPERIENCE: 12,2-5,years,experience.
+

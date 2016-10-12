@@ -1,0 +1,50 @@
+Job/O Description/O Network/O Engineer/Systems/O Administrator/TITLE Title/O Network/O Engineer/Systems/O Administrator/TITLE Description/O The/O Network/LOCATION Engineer/Systems/O Administrator/TITLE s/O role/O is/O to/O ensure/O proper/O computer/O operation/O and/O integrity/O of/O in-house/O voice/O ,/O data/O ,/O and/O wireless/O network/O servicesso/O that/O end/O users/O can/O accomplish/O business/O tasks/O as/O well/O as/O assist/O in/O the/O installation/O ,/O monitoring/O ,/O maintenance/O ,/O support/O ,/O and/O optimization/O of/O all/O network/O hardware/O ,/O software/O ,/O and/O communication/O links/O ./O 
+This/O includes/O receiving/O ,/O prioritizing/O ,/O documenting/O ,/O and/O actively/O resolving/O help/O requests/O and/O acting/O proactively/O upon/O normal/O monitoring/O ./O 
+Problem/O resolution/O may/O involve/O the/O use/O of/O diagnostic/O and/O help/O request/O tracking/O tools/O ,/O as/O well/O as/O require/O that/O the/O individual/O give/O in-person/O ,/O hands-on/O help.This/O individual/O will/O also/O analyze/O and/O resolve/O network/O hardware/O and/O software/O problems/O in/O a/O timely/O and/O accurate/O fashion/O ,/O and/O provide/O end/O user/O training/O where/O required/O ./O 
+Responsibilities/ORGANIZATION Strategy/ORGANIZATION &/ORGANIZATION Planning/ORGANIZATION Evaluate/ORGANIZATION documented/O resolutions/O and/O analyze/O trends/O for/O ways/O to/O prevent/O future/O problems/O ./O 
+Create/O and/O maintain/O documentation/O as/O it/O relates/O to/O network/O configuration/O ,/O network/O mapping/O ,/O processes/O ,/O and/O service/O records/O ./O 
+Develop/O ,/O implement/O and/O maintain/O policies/O ,/O procedures/O ,/O and/O associated/O training/O plans/O for/O network/O administration/O ,/O usage/O ,/O and/O disaster/O recovery/O ./O 
+Acquisition/O &/O Deployment/O Design/O and/O deploy/O company/O LANs/ORGANIZATION ,/O WANs/PERSON ,/O and/O wireless/O networks/O ,/O including/O servers/O ,/O desktops/O ,/O routers/O ,/O hubs/DEGREE ,/O switches/O ,/O UPSs/PERSON ,/O and/O other/O hardware/O ./O 
+Oversee/O new/O and/O existing/O equipment/O ,/O hardware/O ,/O and/O software/O upgrades/O ./O 
+Interact/O and/O negotiate/O with/O vendors/O ,/O outsourcers/O ,/O and/O contractors/O to/O secure/O network/O products/O and/O services/O ./O 
+*/O Operational/O Management/O Configure/O networks/O to/O ensure/O their/O smooth/O and/O reliable/O operation/O for/O fulfilling/O business/O objectives/O and/O processes/O ./O 
+Monitor/O network/O performance/O and/O troubleshoot/O problem/O areas/O as/O needed/O ./O 
+Oversee/O installation/O ,/O configuration/O ,/O maintenance/O ,/O and/O troubleshooting/O of/O end/O user/O workstation/O hardware/O ,/O software/O ,/O and/O peripheral/O devices/O ./O 
+Build/O rapport/O and/O elicit/O problem/O details/O from/O customers/O ./O 
+Prioritize/O and/O schedule/O problems/O ./O 
+Escalate/O problems/O -LRB-/O when/O required/O -RRB-/O to/O the/O appropriately/O experienced/O technician/TITLE ./O 
+Record/O ,/O track/O ,/O and/O document/O the/O help/O desk/O request/O problem-solving/O process/O ,/O including/O all/O successful/O and/O unsuccessful/O decisions/O made/O ,/O and/O actions/O taken/O ,/O through/O to/O final/O resolution/O ./O 
+Apply/O diagnostic/O utilities/O to/O aid/O in/O troubleshooting/O ./O 
+Access/O software/O updates/O ,/O drivers/O ,/O knowledge/O bases/O ,/O and/O frequently/O asked/O questions/O resources/O on/O the/O Internet/MISC to/O aid/O in/O problem/O resolution/O ./O 
+Identify/O and/O learn/O appropriate/O software/O and/O hardware/O used/O and/O supported/O by/O the/O organization/O ./O 
+Perform/O hands-on/O fixes/O at/O the/O desktop/O level/O ,/O including/O installing/O and/O upgrading/O software/O ,/O installing/O hardware/O ,/O implementing/O file/O backups/O ,/O and/O configuring/O systems/O and/O applications/O ./O 
+Install/O anti-virus/O software/O ./O 
+Performing/O preventative/O maintenance/O ,/O including/O checking/O and/O cleaning/O of/O workstations/O ,/O printers/O ,/O and/O peripherals/O ./O 
+Test/O fixes/O to/O ensure/O problem/O has/O been/O adequately/O resolved/O ./O 
+Perform/O post-resolution/O follow-ups/O to/O help/O requests/O ./O 
+Monitor/O network/O performance/O and/O troubleshoot/O problem/O areas/O as/O needed/O ./O 
+Oversee/O installation/O ,/O configuration/O ,/O maintenance/O ,/O and/O troubleshooting/O of/O end/O user/O workstation/O hardware/O ,/O software/O ,/O and/O peripheral/O devices/O ./O 
+Ensure/O network/O connectivity/O of/O all/O servers/O ,/O workstations/O ,/O telephony/O equipment/O ,/O fax/O machines/O ,/O and/O other/O network/O appliances/O ./O 
+Manage/O servers/O ,/O including/O database/O ,/O e-mail/O ,/O print/O ,/O and/O backup/O servers/O and/O their/O associated/O operating/O systems/O and/O software/O ./O 
+Practice/O network/O asset/O management/O ,/O including/O maintenance/O of/O network/O component/O inventory/O and/O related/O documentation/O and/O technical/O specifications/O information/O ./O 
+Monitor/O and/O test/O network/O performance/O and/O provide/O network/O performance/O statistics/O and/O reports/O ./O 
+Position/ORGANIZATION Requirements/ORGANIZATION Formal/ORGANIZATION Education/ORGANIZATION College/ORGANIZATION diploma/O or/O university/O degree/DEGREE in/O the/O field/O of/O computer/O science/O and/or/O equivalent/O work/O experience/EXP ./O 
+Knowledge/O &/O Experience/EXP Proven/O experience/EXP and/O success/O with/O LAN/ORGANIZATION ,/O WAN/ORGANIZATION ,/O WLAN/LOCATION ,/O and/O WWAN/ORGANIZATION design/O and/O implementation/O ./O 
+Proven/O experience/EXP with/O network/O capacity/O planning/O ,/O network/O security/O principles/O ,/O and/O general/O network/O management/O best/O practices/O ./O 
+Strong/O ,/O hands-on/O technical/O knowledge/O of/O network/O and/O PC/O operating/O systems/O ,/O including/O MS/MISC Windows/TOOLS and/O Linux/TOOLS Working/O knowledge/O of/O a/O range/O of/O diagnostic/O utilities/O ./O 
+Exceptional/O written/O and/O oral/O communication/O skills/O ./O 
+Strong/O documentation/O skills/O ./O 
+Personal/ORGANIZATION Attributes/ORGANIZATION Ability/ORGANIZATION to/O conduct/O research/O into/O a/O wide/O range/O of/O computing/O issues/O as/O required/O ./O 
+Ability/O to/O absorb/DEGREE and/O retain/O information/O quickly/O ./O 
+Ability/O to/O present/O ideas/O in/O user-friendly/O language/O ./O 
+Highly/O self-motivated/O and/O directed/O ./O 
+Keen/O attention/O to/O detail/O ./O 
+Proven/O analytical/O and/O problem-solving/O abilities/O ./O 
+Ability/O to/O effectively/O prioritize/O and/O execute/O tasks/O in/O a/O high-pressure/O environment/O ./O 
+Exceptional/O customer/O service/O orientation/O ./O 
+Experience/EXP working/O in/O a/O team-oriented/O ,/O collaborative/O environment/O ./O 
+Work/O Conditions/O On-call/MISC availability/O 7-14/O days/O per/O month/O ./O 
+Sitting/O for/O extended/O periods/O of/O time/O ./O 
+Occasional/O inspection/O of/O cables/O in/O floors/O and/O ceilings/O ./O 
+Lifting/O and/O transporting/O of/O moderately/O heavy/O objects/O ,/O such/O as/O computers/O and/O peripherals/O ./O 
+Job/O Type/O :/O Full-time/O Salary/O :/O $/O 50,000.00/O //EXP year/EXP Local/O candidates/O only/O :/O Buffalo/LOCATION ,/O NY/LOCATION Required/O experience/EXP :/O Network/O Engineer/TITLE //EXP Systems/O Adminstrator/O :/O 3/EXP years/EXP Required/O education/O :/O Bachelor/DEGREE 's/O 

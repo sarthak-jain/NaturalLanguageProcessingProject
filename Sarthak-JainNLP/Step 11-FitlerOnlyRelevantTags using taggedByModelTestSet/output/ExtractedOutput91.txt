@@ -1,0 +1,8 @@
+ORGANIZATION: Microsoft,Dynamics,Microsoft,Dynamics,Dynamics,NAV,NAV,Server,Microsoft,Dynamics,Responsibilities,Learn,Learn,NAV.
+LOCATION: Lexington,Kentucky.
+TITLE: developer,Analyst,developer.
+DEGREE: Bachelor,degree.
+LANGUAGES: SQL,SQL.
+TOOLS: Visual,Studio,Visual,Studio.
+EXPERIENCE: experience,18,years,0-2,years,experience.
+

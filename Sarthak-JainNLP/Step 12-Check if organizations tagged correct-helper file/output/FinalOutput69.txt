@@ -1,0 +1,8 @@
+ORGANIZATION: STRATUS,Solutions,,
+LOCATION: Fulton,MD,Confluence.
+TITLE:.
+DEGREE: Bachelor,Degree,Bachelor.
+LANGUAGES: C#,Java,C#.
+TOOLS: AWS,Agile,MVC,ASP.NET,Visual,Studio,TFS,AWS,Linux,Windows.
+EXPERIENCE: Experience,/,experience,1,year.
+

@@ -1,0 +1,14 @@
+Would/O you/O like/O to/O work/O as/O a/O key/O member/O of/O the/O Test/O Engineering/O team/O to/O design/O ,/O build/O ,/O and/O test/O groundbreaking/O products/O ?/O 
+Would/O you/O like/O to/O perform/O Manual/O ,/O Regression/O ,/O and/O Automation/O Testing/O and/O enjoy/O the/O excitement/O of/O working/O for/O an/O awesome/O Cybersecurity/O company/O with/O cutting/O edge/O technologies/O in/O a/O fast/O paced/O collaborative/O Software/O Engineering/O Environment/O ?/O 
+Fidelis/ORGANIZATION Cybersecurity/ORGANIZATION has/O an/O immediate/O opening/O for/O a/O Network/MISC Test/MISC Engineer/TITLE to/O join/O our/O Bethesda/LOCATION team/O !/O 
+Key/ORGANIZATION Responsibilities/ORGANIZATION Software/ORGANIZATION test/O engineers/O will/O contribute/O to/O product/O verification/O and/O Quality/O Assurance/O -LRB-/O QA/O -RRB-/O of/O a/O state-of-the-art/O network/O security/O software/O product/O ./O 
+This/O position/O is/O responsible/O for/O verification/O of/O network/O equipment/O products/O ,/O such/O as/O firewalls/O ,/O Intrusion/ORGANIZATION Prevention/ORGANIZATION Systems/ORGANIZATION ,/O routers/O ,/O or/O switches/O ./O 
+Will/O aslo/O be/O responsible/O for/O the/O automated/O verification/O efforts/O in/O traffic/O generators/O and/O analyzers/O with/O Python/LANG ,/O or/O similar/O programming/O languages/O in/O a/O Linux/TOOLS or/O Unix/O environment/O ./O 
+Qualifications/O Experience/EXP in/O the/O verification/O of/O network/O equipment/O products/O ,/O such/O as/O firewalls/O ,/O Intrusion/ORGANIZATION Prevention/ORGANIZATION Systems/ORGANIZATION ,/O routers/O ,/O or/O switches/O ./O 
+Automation/O testing/O experience/EXP ./O 
+Possess/O knowledge/O of/O automated/O verification/O efforts/O with/O experience/EXP in/O traffic/O generators/O and/O analyzers/O ,/O Perl/LANG ,/O Tcl/O ,/O Python/LANG ,/O or/O similar/O programming/O languages/O in/O a/O Linux/TOOLS or/O Unix/O environment/O ./O 
+GUI/ORGANIZATION testing/O experience/EXP and/O knowledge/O of/O Selenium/O is/O preferred/O ./O 
+3-5/EXP years/EXP of/O relevant/O experience/EXP ./O 
+BSCS/ORGANIZATION -LRB-/O or/O equivalent/O -RRB-/O is/O required/O ;/O a/O MSCS/ORGANIZATION is/O preferred/O ./O 
+The/O position/O is/O located/O in/O Bethesda/LOCATION ,/O MD./O ./O 
+Job/O Type/O :/O Full-time/O Required/O experience/EXP :/O automated/O verification/O efforts/O with/O traffic/O generators/O ,/O analyzers/O ,/O Perl/LANG ,/O Tcl/O ,/O Python/LANG :/O 3/EXP years/EXP Required/O education/O :/O Bachelor/DEGREE 's/O 

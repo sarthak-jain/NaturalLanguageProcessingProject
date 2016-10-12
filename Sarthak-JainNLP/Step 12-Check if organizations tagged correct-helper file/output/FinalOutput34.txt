@@ -1,0 +1,8 @@
+ORGANIZATION:
+LOCATION: Cassandra.
+TITLE:.
+DEGREE: Master.
+LANGUAGES: Python,Java,SQL,Oracle.
+TOOLS: Git,AWS.
+EXPERIENCE: experience,5-7,years,experience,/,experience,2,+,years,experience,1,2,experience,experience,Experience.
+

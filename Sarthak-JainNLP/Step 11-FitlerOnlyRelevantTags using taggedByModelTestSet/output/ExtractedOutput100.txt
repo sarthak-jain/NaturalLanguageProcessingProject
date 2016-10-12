@@ -1,0 +1,8 @@
+ORGANIZATION: Patient,Care,Supervisor,HIPAA,Customer,Service,Insurance,Verification,and,Customer,Service,Supervisor.
+LOCATION: TX.
+TITLE: coordinator,coordinator.
+DEGREE: Bachelors,degree.
+LANGUAGES:.
+TOOLS: MS,Office.
+EXPERIENCE: /,1-2,years,experience,2,years,experience,Experience,Experience,experience,Experience,experience,2,years.
+

@@ -1,0 +1,29 @@
+ABILITY/O TO/O OBTAIN/O TS/SCI/O SECURITY/O CLEARANCE/O IS/O REQUIRED/O FOR/O THIS/O POSITION/O BigBear/O ,/O Inc.is/O a/O leading/O provider/O of/O big/O data/O computing/O and/O analytic/O solutions/O ./O 
+We/O help/O people/O make/O sense/O of/O their/O data/O using/O our/O cloud-based/O platform/O and/O big/O data/O processing/O algorithms/O ./O 
+Each/O day/O ,/O we/O crunch/O massive/O volumes/O of/O structured/O and/O unstructured/O data/O ,/O into/O usable/O and/O actionable/O information/O for/O our/O customers/O ./O 
+Job/O Description/O :/O We/O currently/O have/O an/O immediate/O position/O available/O for/O a/O Software/O Engineer/TITLE to/O support/O development/O of/O next/O generation/O web/O applications/O ,/O products/O ,/O and/O services/O ./O 
+As/O a/O member/O of/O our/O core/O team/O ,/O you/O will/O have/O an/O exciting/O and/O challenging/O opportunity/O to/O work/O with/O emerging/O technology/O ,/O modernize/O intelligence/O applications/O ,/O and/O enjoy/O a/O friendly/O workplace/O ./O 
+Responsibilities/O :/O Work/O at/O the/O customer/O site/O as/O part/O of/O a/O large/O team/O developing/O crowd/O sourceETL/O and/O large/O enterprise/TOOLS intelligencesystems/O using/O Postgres/O ,/O Neo4j/O ,/O Apache/TOOLS Solr/PERSON ,/O Redis/PERSON ,/O Python/LANG ,/O Django/O and/O Unix/Shell/O ./O 
+Prototype/O and/O develop/O unit/O tests/O ,/O integration/O tests/O ,/O and/O perform/O code/O refactoring/O ./O 
+Perform/O requirements/O analysis/O ,/O design/O ,/O and/O develop/O technical/O documentation/O ./O 
+Participate/O in/O research/O and/O development/O ofrapidly/O growing/O intelligence/O enterprisesystems/O ./O 
+Build/O logging/O ,/O graphing/O and/O relationship/O analysis/O capabilities/O ./O 
+Integrate/O and/O build/O web/O applications/O with/O analytical/O frameworks/O and/O APIs/TOOLS ./O 
+Work/O successfully/O with/O internal/O and/O external/O teams/O and/O conduct/O capability/O briefings/O ./O 
+Domestic/O travel/O as/O needed/O ./O 
+Minimum/O Requirements/O :/O B.S./DEGREE degree/DEGREE in/O Computer/O Science/O ,/O related/O field/O ,/O or/O equivalent/O experience/EXP ./O 
+Must/O be/O able/O to/O obtain/O a/O Top/O Secret/SCI/O Security/ORGANIZATION Clearance/ORGANIZATION US/ORGANIZATION Citizenship/ORGANIZATION Required/ORGANIZATION ./O 
+Solid/O experience/EXP with/O Python/LANG ,/O Django/PERSON ,/O Solr/PERSON ,/O Elastic/ORGANIZATION Search/ORGANIZATION ,/O Neo4j/O ,/O JSON/TOOLS ,/O Redis/PERSON ,/O CSV/ORGANIZATION ,/O XML/LANG ,/O KML/ORGANIZATION ,/O and/O HTML/LANG ./O 
+Minimum/O of/O 5/EXP years/EXP software/O engineering/O experience/EXP ./O 
+Must/O have/O solid/O skills/O working/O with/O Unix/TOOLS based/O platforms/O including/O Linux/TOOLS ,/O and/O CentOS/O ./O 
+Must/O have/O solid/O experience/EXP integrating/O web/O applications/O withPostgreSQL/O and/O NOSQL/ORGANIZATION databases/O ./O 
+Must/O have/O solid/O experience/EXP integrating/O various/O types/O of/O data/O including/O CSV/ORGANIZATION and/O JSON/TOOLS from/O multiple/O sources/O ./O 
+Solid/O experience/EXP working/O with/O BitBucket/ORGANIZATION ,/O GIT/TOOLS ,/O and/O JIRA/TOOLS repository/O tools/O ./O 
+Ability/O to/O present/O your/O solutions/O to/O various/O customer/O stakeholders/O ./O 
+Ability/O to/O solve/O technical/O problems/O creatively/O and/O effectively/O ./O 
+Up-to-date/O with/O the/O latest/O technology/O trends/O ,/O and/O techniques/O ./O 
+Experience/EXP developing/O GIS/TOOLS applications/O is/O a/O strong/O plus/O ./O 
+CISSP/O or/O Security/O +/O certification/O is/O a/O strong/O plus/O ./O 
+Strong/O communication/O and/O leadership/O skills/O ./O 
+If/O you/O are/O interested/O in/O this/O immediate/O opportunity/O please/O submit/O your/O professional/O resume/O ./O 
+BigBear/O is/O an/O Equal/O Opportunity/O Employer/O Job/O Type/O :/O Full-time/O Required/O experience/EXP :/O Software/O engineering/O experience/EXP :/O 5/EXP years/EXP 

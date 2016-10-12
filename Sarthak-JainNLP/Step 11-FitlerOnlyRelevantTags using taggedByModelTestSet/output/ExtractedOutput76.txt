@@ -1,0 +1,8 @@
+ORGANIZATION: NASA,TASC,Inc.,J&P,Technologies,MPL,Corporation,Mountain,State,Information,Systems,Inc.,New-Bold,Enterprises,,,Inc.,Qualified,Technical,Services,,,Inc.,Oakwood,University,West,Virginia,University,Azimuth,,,Inc.,GB,Tech,,,Inc.,Software,Development,Life,Cycle,NASA,Independent,Verification,and,Validation,NASA,Independent,Verification,and,Validation,RDCT,NASA,Project,Lead,Systems,Engineering,Aerospace,Engineering,Electrical,Engineering,Public,Trust,Security,Clearance,Object,Oriented,Design,NASA,NOAA,Command,&,Data,Handling,Electrical,Power,Thermal,Control,SpaceWire,Vehicle,Health,Management,Klocwork,Insight.
+LOCATION: Fairmont,Public,Trust,Fairmont.
+TITLE: Engineer,developer,developer.
+DEGREE: Bachelor,degree,Subsystem,Subsystem,Bachelor.
+LANGUAGES: C++,C.
+TOOLS: UML,agile.
+EXPERIENCE: experience,five,two,2,three,3,Experience,Experience,Experience,experience,Experience,Experience,Experience,Experience,experience,2,years.
+

@@ -1,0 +1,8 @@
+ORGANIZATION:
+LOCATION:.
+TITLE: Engineer,Engineer.
+DEGREE:.
+LANGUAGES: Python,Perl,Ruby,JavaScript.
+TOOLS: DevOps,Jenkins,Linux,JIRA,AWS,Jenkins.
+EXPERIENCE: /,/,Experience,Experience,EXPERIENCE,1,+,years,experience,experience,Experience,one,Experience,experience,experience,/,year,experience,2,years.
+

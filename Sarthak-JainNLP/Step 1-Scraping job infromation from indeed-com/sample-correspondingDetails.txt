@@ -1,0 +1,10 @@
+SummaryCollected1.txt	DJ Business Solutions, LLC Legato THEMESOFT ApplyLogic Raytheon Cervello Technologies, LLC	Washington, DC College Park, MD Chevy Chase, MD Washington, DC Herndon, VA Indian Head, MD
+SummaryCollected2.txt	RTA INC Employment Agency POLITICO CEdge Software Consultants Thorlabs, Inc. Booz Allen Hamilton KEYW Corporation	Springfield, VA Arlington, VA Alexandria, VA Sterling, VA Arlington, VA Springfield, VA
+SummaryCollected3.txt	American Institutes for Research Eliassen Group Workbridge Associates The Kenific Group	Washington, DC Arlington, VA Washington, DC Fairfax, VA
+SummaryCollected4.txt	Veear Projects IMPAQ International Technocraft SAIC Veear Seven Hills Software Technologies Inc	McLean, VA Columbia, MD Woodlawn, MD Arlington, VA McLean, VA Woodlawn, MD
+SummaryCollected5.txt	CleverSource Employ-r Solutions Inc  Amazon Web Services, Inc. T&M Consulting Inc (A Michigan Based Company) Spokes Marketing	Washington, DC Washington, DC Chevy Chase, MD Herndon, VA Washington, DC Baltimore, MD
+SummaryCollected6.txt	Consulting Services Group, LLC Continental Technologies, Inc.	Arlington, VA Ellicott City, MD
+SummaryCollected7.txt	Primastep, LLC Employee Navigator CompuGain MBCAA WholePoint Systems	Crystal City, VA Bethesda, MD Reston, VA Washington, DC Herndon, VA
+SummaryCollected8.txt	Unisys Kastling Group ICI Systems Unisys Prism Inc. Nityo Infotech Corp.	Springfield, VA Arlington, VA Washington, DC Springfield, VA Ashburn, VA Sterling, VA
+SummaryCollected9.txt	Altron, Inc Dimension Data	Manassas, VA Ashburn, VA
+SummaryCollected10.txt	Seneca Solutions PSAV PSAV Southern Audio Visual CSRA	Pentagon, DC Rockville, MD Washington, DC Washington, DC Washington, DC

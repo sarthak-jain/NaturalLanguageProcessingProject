@@ -1,0 +1,13 @@
+Senior/O Software/O Developer/TITLE Responsibilities/O The/O duties/O for/O this/O position/O may/O include/O ,/O but/O are/O not/O limited/O to/O :/O Confer/O with/O Systems/ORGANIZATION Analysts/ORGANIZATION ,/O Engineers/O ,/O Programmers/O and/O others/O to/O design/O system/O and/O to/O obtain/O information/O on/O project/O limitations/O and/O capabilities/O ,/O performance/O requirements/O and/O interfaces/O ./O 
+Modify/O existing/O software/O to/O correct/O errors/O ,/O allow/O it/O to/O adapt/O to/O new/O hardware/O ,/O or/O to/O improve/O its/O performance/O ./O 
+Analyze/O user/O needs/O and/O software/O requirements/O to/O determine/O feasibility/O of/O design/O within/O time/O and/O cost/O constraints/O ./O 
+Consult/O with/O customers/O about/O software/O systems/O design/O and/O maintenance/O ./O 
+Coordinate/O software/O system/O installation/O and/O monitor/O equipment/O functioning/O to/O ensure/O specifications/O are/O met/O ./O 
+Involved/O in/O the/O design/O of/O application/O framework/O ,/O the/O design/O of/O User/ORGANIZATION Interface/ORGANIZATION and/O coding/O of/O application/O modules/O and/O the/O design/O and/O development/O of/O the/O database/O for/O application/O ./O 
+Work/O with/O technologies/O including/O Microsoft/ORGANIZATION ./O 
+NET/O ,/O Microsoft/ORGANIZATION SharePoint/O server/O 2007/O ,/O C#/LANG ,/O VB.NET/TOOLS ,/O XML/LANG ,/O SQL/LANG Server/O 2000/2005/O ,/O and/O Microsoft/ORGANIZATION Access/ORGANIZATION ./O 
+Use/O methodologies/O including/O Object/O Oriented/O Programming/O ,/O Unified/O Modeling/O languages/O and/O tools/O that/O include/O Rational/ORGANIZATION Rose/ORGANIZATION ,/O Rational/ORGANIZATION Clearquest/ORGANIZATION and/O Microsoft/ORGANIZATION Visio/TOOLS ./O 
+Required/O Education/O The/O candidate/O for/O this/O position/O should/O hold/O a/O minimum/O of/O a/O Bachelors/DEGREE degree/DEGREE in/O Computer/O Science/O ,/O Engineering/O -LRB-/O any/O -RRB-/O or/O a/O related/O field/O ./O 
+Required/O Experience/EXP In/O addition/O to/O the/O above/O educational/O requirements/O ,/O the/O candidate/O for/O this/O position/O must/O also/O have/O at/O least/O 2/EXP years/EXP of/O experience/EXP in/O the/O job/O offered/O or/O as/O a/O Computer/O Software/O Professional/O ./O 
+How/O to/O Apply/O Interested/O candidates/O ,/O please/O submit/O your/O resume/O ,/O salary/O requirements/O and/O cover/O letter/O online/O ./O 
+For/O questions/O ,/O please/O contact/O hr@insightcorp.com/O ./O 

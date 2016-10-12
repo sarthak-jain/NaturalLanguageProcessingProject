@@ -1,0 +1,8 @@
+ORGANIZATION:
+LOCATION: Baltimore,MD.
+TITLE: Engineer,Engineer,Engineer,Engineer,Engineer.
+DEGREE:.
+LANGUAGES: C#,Assembly,C#.
+TOOLS: windows.
+EXPERIENCE: /,experience,experience,experience,/,1,year.
+

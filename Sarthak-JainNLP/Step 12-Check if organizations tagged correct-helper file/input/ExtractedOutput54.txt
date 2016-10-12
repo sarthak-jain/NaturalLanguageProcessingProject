@@ -1,0 +1,8 @@
+ORGANIZATION: Drug,Enforcement,Administration,DEA,Required,Skills,U.S.,Citizenship,Relational,Database,Management,Systems,RDBMS.
+LOCATION:.
+TITLE: developer.
+DEGREE:.
+LANGUAGES: C#,C#,Java,CSS,C#.
+TOOLS: agile,agile,Scrum,ASP.Net,MVC,Visual,Studio,Agile.
+EXPERIENCE: 10,+,years,experience,2,+,years,experience,3,+,years,experience,1,year,1,Experience,3,+,years,experience,3,+,years,experience,3,+,years,experience,Experience,one,experience,10,years.
+

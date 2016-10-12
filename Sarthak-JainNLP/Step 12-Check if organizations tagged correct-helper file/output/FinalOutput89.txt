@@ -1,0 +1,8 @@
+ORGANIZATION: Systems
+LOCATION:.
+TITLE:.
+DEGREE:.
+LANGUAGES: SQL,Java,C,C++,HTML,JavaScript,SQL.
+TOOLS: Visual,Visual,ASP.
+EXPERIENCE: 12,2-5,years,experience.
+

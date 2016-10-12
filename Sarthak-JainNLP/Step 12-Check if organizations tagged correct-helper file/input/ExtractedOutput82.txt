@@ -1,0 +1,8 @@
+ORGANIZATION: SC,Summary,MicroHealth,Defense,Medical,Information,Exchange,SC,SLAs,Responsibilities,Analyze,SQA,RTM,Computer,Science,Technology,Analysis,and,Assessment,Design,Definition,,,Development,of,Systems,Specification,Systems,Analysis,Systems,Architecture,Test,&,Evaluation,Criteria.
+LOCATION: Charleston,Charleston.
+TITLE: Engineer.
+DEGREE: BS,degree,Bachelor.
+LANGUAGES:.
+TOOLS: SDLC.
+EXPERIENCE: 7,years,experience,7,years,experience,Experience,experience,7,years.
+

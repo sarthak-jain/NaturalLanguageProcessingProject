@@ -1,0 +1,10 @@
+Crowdskout/O processes/O large/O volumes/O of/O diverse/O data/O and/O thus/O faces/O a/O wide/O array/O of/O challenges/O ./O 
+We/O re/O looking/O for/O a/O back/O end/O engineer/TITLE to/O join/O our/O team/O and/O help/O build/O the/O software/O side/O of/O our/O data/O storage/O ,/O acquisition/O ,/O and/O processing/O components/O of/O the/O platform/O ./O 
+ABOUT/O YOUYou/O re/O a/O meticulous/O PHP/LANG engineer/TITLE who/O enjoys/O working/O in/O the/O large/O scale/O ./O 
+No/O problem/O is/O too/O large/O ,/O and/O milliseconds/O matter/O ./O 
+You/O enjoy/O standardizing/O information/O ,/O and/O have/O OCD/ORGANIZATION tendencies/O ./O 
+You/O want/O to/O work/O in/O a/O small/O team/O ,/O and/O play/O a/O large/O role/O in/O a/O promising/O startup/O ./O 
+You/O re/O organized/O and/O self-motivated/O ,/O and/O you/O strive/O for/O perfection/O ./O 
+Working/O with/O big/O data/O poses/O a/O unique/O challenge/O ,/O and/O this/O is/O exciting/O to/O you/O ,/O not/O intimidating/O ./O 
+You/O enjoy/O working/O in/O a/O service/O based/O architecture/O ,/O and/O want/O to/O design/O and/O build/O similar/O systems/O ./O 
+PLUSES/O */O Open/O source/O contributions/O */O Experience/EXP working/O with/O big/O data/O technologies/O ,/O such/O as/O Spark/PERSON or/O Elasticsearch/O Requirements/O :/O */O 2-3/EXP years/EXP production/O experience/EXP in/O modern/O PHP/LANG */O Strong/O experience/EXP working/O with/O relational/O and/O document/O databases/O */O Experience/EXP in/O architecting/O an/O API/ORGANIZATION */O Experience/EXP in/O Git/TOOLS or/O a/O similar/O VCS/ORGANIZATION */O Some/O experience/EXP working/O on/O and/O deploying/O to/O Linux/TOOLS systems/O 

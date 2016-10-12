@@ -1,0 +1,8 @@
+ORGANIZATION: MicroStrategy
+LOCATION: UI.
+TITLE: engineer.
+DEGREE: Bachelor,Degree,Master,Degree.
+LANGUAGES: Java,JavaScript,JavaScript,HTML5.
+TOOLS: scrum,Agile,RESTful,APIs.
+EXPERIENCE: Experience,Experience,one,Experience.
+

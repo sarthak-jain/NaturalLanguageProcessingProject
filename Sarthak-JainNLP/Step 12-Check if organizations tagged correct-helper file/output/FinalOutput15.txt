@@ -1,0 +1,8 @@
+ORGANIZATION: Logi,Analytics,Logi,Analytics,Logi,Analytics,Logi,Analytics
+LOCATION: DHTML,RDBMS.
+TITLE: Engineer.
+DEGREE: Bachelor,degree.
+LANGUAGES: HTML,Java,SQL,XML.
+TOOLS: RFPs,Microsoft,Web,Unix,OLAP,IIS,Apache,Tomcat.
+EXPERIENCE: EXPERIENCE,experience,experience,Experience.
+

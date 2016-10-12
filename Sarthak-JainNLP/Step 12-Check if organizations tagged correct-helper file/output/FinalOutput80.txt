@@ -1,0 +1,8 @@
+ORGANIZATION:
+LOCATION: Network,WLAN,Buffalo,NY.
+TITLE: Administrator,Administrator,Administrator,technician,Engineer.
+DEGREE: hubs,degree,absorb,Bachelor.
+LANGUAGES:.
+TOOLS: Windows,Linux.
+EXPERIENCE: experience,Experience,experience,experience,Experience,/,year,experience,/,3,years.
+

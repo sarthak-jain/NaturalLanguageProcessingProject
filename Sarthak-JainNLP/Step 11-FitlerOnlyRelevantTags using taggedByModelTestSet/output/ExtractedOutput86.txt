@@ -1,0 +1,8 @@
+ORGANIZATION: Windward,Excel,IKVM,UI,VSO,SVN,Great,XPath,Created,Business,Intelligence,Microsoft,Azure,TeamCity,FSA.
+LOCATION: Windward,Boulder,CO.
+TITLE: developer.
+DEGREE: substantial,Bachelor,degree,WebServices,subsidized,Bachelor.
+LANGUAGES: Java,Java,Java,C#,C#,TypeScript,C#,Java,SQL,NoSQL.
+TOOLS: Microsoft,Word,PowerPoint,editor,OOP,SDLC,GIT,RESTFUL,AWS,Jenkins.
+EXPERIENCE: experience,experience,3,+,year,experience,experience,experience,3,+,years,experience,experience,Experience,Experience,Experience,experience,Experience,Experience,Experience,Experience,experience,3,years.
+

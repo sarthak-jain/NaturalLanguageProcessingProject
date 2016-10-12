@@ -1,0 +1,8 @@
+ORGANIZATION: Affinity,Affinity
+LOCATION: LMFT.
+TITLE:.
+DEGREE: substance,Masters,Degree.
+LANGUAGES: LPC.
+TOOLS:.
+EXPERIENCE: Experience,/,EXPERIENCE.
+

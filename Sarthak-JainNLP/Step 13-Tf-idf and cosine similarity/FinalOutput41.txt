@@ -1,0 +1,8 @@
+ORGANIZATION:
+LOCATION: Rockville,T-SQL,Rockville,New,York,City,NY,London,UK.
+TITLE: Engineer,developer.
+DEGREE: Bachelor,degree.
+LANGUAGES: SQL,REST,C#,JavaScript,XML,HTML,CSS,SQL.
+TOOLS: Windows,AJAX,MVC,enterprise,ASP.NET,Visual,Studio,Visio.
+EXPERIENCE: 5,+,years,experience,5,+,years,experience,Experience,Experience,experience,experience,experience,5,years.
+

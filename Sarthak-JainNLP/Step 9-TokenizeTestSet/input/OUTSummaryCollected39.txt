@@ -1,0 +1,29 @@
+Job/O Description/O :/O The/O Software/O Engineer/TITLE is/O responsible/O for/O the/O design/O ,/O development/O ,/O and/O deployment/O of/O backend/O components/O associated/O with/O the/O company/O 's/O technical/O products/O ./O 
+Desired/O skills/O include/O node.js/O ,/O javascript/O ,/O and/O MongoDB/O ./O 
+What/O you/O ll/O be/O doing/O !/O 
+*/O Develop/O innovative/O and/O effective/O backend/O database/O solutions/O to/O meet/O project/O objectives/O ./O 
+*/O Customize/O existing/O features/O to/O fit/O customer/O needs/O and/O work/O closely/O with/O members/O of/O the/O engineering/O team/O and/O solution/O architects/O to/O integrate/O customizations/O ./O 
+*/O Work/O with/O Product/O Management/O team/O to/O define/O new/O features/O for/O technical/O products/O ./O 
+Lead/O the/O roll-out/O of/O these/O features/O into/O production/O ./O 
+*/O Design/O ,/O implement/O ,/O and/O test/O enhancements/O ,/O fix/O defects/O ,/O and/O improve/O technical/O products/O ./O 
+*/O Continuously/O discover/O ,/O evaluate/O ,/O and/O implement/O new/O technologies/O to/O maximize/O development/O efficiency/O and/O application/O performance/O ./O 
+*/O Participate/O in/O defining/O and/O implementing/O technical/O direction/O ./O 
+*/O Develop/O and/O conduct/O unit/O test/O plans/O ./O 
+*/O Optimize/O backend/O for/O maximum/O performance/O for/O large/O queries/O ./O 
+*/O Actively/O participate/O on/O project/O teams/O for/O assigned/O system/O projects/O ./O 
+*/O Leverage/O a/O broad/O technology/O stack/O to/O ensure/O performance/O is/O at/O its/O best/O from/O end/O to/O end/O ./O 
+Benefits/O &/O Fun/O :/O */O Competitive/O Benefits/O including/O medical/O ,/O prescription/O ,/O dental/O ,/O vision/O ,/O short/O &/O long-term/O disability/O ,/O life/O insurance/O ,/O flexible/O spending/O ,/O and/O more/O !/O 
+*/O Company/O Picnic/LOCATION ,/O Health/ORGANIZATION &/ORGANIZATION Wellness/ORGANIZATION Fair/ORGANIZATION ,/O Turkey/O Fry/O ,/O Yankee/PERSON Swap/PERSON ,/O Pizza/ORGANIZATION &/ORGANIZATION Happy/ORGANIZATION Hour/ORGANIZATION Friday/ORGANIZATION s/O ,/O Birthday/O Celebrations/O ,/O &/O much/O more/O !/O 
+Skills/O &/O Requirements/O Must/O haves/O :/O */O BS/DEGREE or/O BA/ORGANIZATION in/ORGANIZATION Information/ORGANIZATION Systems/ORGANIZATION or/O related/O field/O ./O 
+*/O 4/EXP +/EXP year/EXP related/O experience/EXP in/O software/O development/O ./O 
+*/O Experienced/O software/O development/O with/O background/O of/O building/O complex/O systems/O using/O Node.js/O ,/O NoSQL/LANG -LRB-/O e.g./O MongoDB/O ,/O Redis/ORGANIZATION -RRB-/O ./O 
+*/O Good/O understanding/O of/O server-side/O template/O G./O */O Good/O understanding/O of/O server-side/O CSS/LANG preprocessors/O ./O 
+*/O Proficient/O understanding/O of/O code/O versioning/O with/O Git/TOOLS ./O 
+Nice/ORGANIZATION to/O haves/O :/O */O Experience/EXP in/O solution/O architecting/O on/O a/O wide/O range/O of/O applications/O ./O 
+*/O Experienced/O in/O Python/Ruby/Go/O ./O 
+*/O Knowledge/O of/O Amazon/ORGANIZATION Web/ORGANIZATION Service/ORGANIZATION ./O 
+*/O Understanding/O of/O front-end/O technologies/O ,/O such/O as/O HTML5/LANG and/O CSS3/O ./O 
+*/O Understanding/O of/O accessibility/O and/O security/O compliance/O ./O 
+Top/O skills/O :/O Design/O ,/O implement/O ,/O and/O test/O enhancements/O ,/O fix/O defects/O ,/O and/O improve/O technical/O products/O ./O 
+Job/O Type/O :/O Full-time/O Required/O experience/EXP :/O */O 4/EXP +/EXP year/EXP related/O experience/EXP in/O software/O development/O ./O 
+*/O Experienced/O software/O development/O with/O backgro/O :/O 5/EXP years/EXP Required/O education/O :/O Bachelor/DEGREE 's/O 

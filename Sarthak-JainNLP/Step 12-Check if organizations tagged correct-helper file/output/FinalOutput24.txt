@@ -1,0 +1,8 @@
+ORGANIZATION: MetroStar,Systems,MetroStar
+LOCATION: Foggy,Bottom.
+TITLE:.
+DEGREE: Bachelor,Degree,Bachelor.
+LANGUAGES: C#,C#,C#,HTML,CSS,JQuery,JavaScript,C#,C#.
+TOOLS: Visual,Studio,ASP.NET,MVC,AJAX,APIs,Visual,Studio,ASP.NET,MVC,Agile,SCRUM.
+EXPERIENCE: 5,Experience,Experience,2,years,experience,/,year,experience,2,years.
+

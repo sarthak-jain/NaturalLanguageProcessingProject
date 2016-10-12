@@ -1,0 +1,8 @@
+ORGANIZATION:
+LOCATION: Lexington,Kentucky.
+TITLE: developer,Analyst,developer.
+DEGREE: Bachelor,degree.
+LANGUAGES: SQL,SQL.
+TOOLS: Visual,Studio,Visual,Studio.
+EXPERIENCE: experience,18,years,0-2,years,experience.
+

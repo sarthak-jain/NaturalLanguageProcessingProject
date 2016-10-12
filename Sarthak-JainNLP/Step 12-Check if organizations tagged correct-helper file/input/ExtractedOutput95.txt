@@ -1,0 +1,8 @@
+ORGANIZATION: Vitech,Systems,Group,Database,Group,DBA,Version,Vitech,Information,Technology,Vitech,Systems,Group.
+LOCATION: New,York,City,United,States.
+TITLE: Developer,Developer,Developer,Developer.
+DEGREE: Bachelor,degree,Master,degree,website,Bachelor.
+LANGUAGES: Oracle,Oracle,PL/SQL,Oracle,Oracle,Oracle,Oracle,Oracle,Oracle,PL/SQL,SQL,Oracle.
+TOOLS: enterprise,enterprise.
+EXPERIENCE: one,1,20,experience,3,+,years,Experience,experience,/,experience,3,years.
+

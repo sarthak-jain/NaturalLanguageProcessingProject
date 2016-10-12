@@ -1,0 +1,8 @@
+ORGANIZATION: Reinventing,Geospatial,,,Inc.,US,Citizenship,MS,ESRI,Microsoft,Server,GDAL,Reinventing,Geospatial,,,Inc.,Equal,Opportunity,Employer,US,Citizenship.
+LOCATION: RHEL,Fedora.
+TITLE:.
+DEGREE: BS,degree.
+LANGUAGES: SQL,SQL,Oracle,Python.
+TOOLS: Linux,agile.
+EXPERIENCE: 5-8,years,experience,Experience,experience,Experience,Experience,experience,one.
+

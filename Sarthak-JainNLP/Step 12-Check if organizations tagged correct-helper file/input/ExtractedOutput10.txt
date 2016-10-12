@@ -1,0 +1,8 @@
+ORGANIZATION: Seneca,Solutions,VTC,Video,Information,Distribution,System,Briefings/Video,Display,Systems,Defense,Collaboration,Services,DCS,Control,Unit,MCU,Internet,Protocol,Television,MOVI,Digital,Clocks,AV,Paging,System,Smartboard,PC,Associates,CRESTRON,AMX,InfoComm,Current,TS,SCI,SCI.
+LOCATION:.
+TITLE: technician.
+DEGREE: Degree.
+LANGUAGES: AutoCAD.
+TOOLS: Audio,Visual,AV,AV,Audio,Visual,Audio,Visual,Visio,CTS,Audio,Visual.
+EXPERIENCE: experience,Experience,Experience,5,+,year,experience,3,+,year,experience,experience,5,years.
+

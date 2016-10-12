@@ -1,0 +1,5 @@
+NAME: Judy Rich.
+DEGREE: Master,Bachelor,degree.
+LANGUAGES: Java,Perl,Ruby,Python,HTML,C,C++,ColdFusion,Adobe,SQL,Oracle,MySQL, HTML5, REST.
+TOOLS: Windows,Linux,Spring,SCRUM, Git, Subversion, Apache Tomcat, MVC, Visio, AJAX, Bootstrap, MVC, Windows,Linux.
+EXPERIENCE: 12 years of experience.

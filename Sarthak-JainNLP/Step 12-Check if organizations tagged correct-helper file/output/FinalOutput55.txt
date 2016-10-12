@@ -1,0 +1,8 @@
+ORGANIZATION: Reinventing,Geospatial,,,Reinventing,Geospatial,,
+LOCATION: RHEL,Fedora.
+TITLE:.
+DEGREE: BS,degree.
+LANGUAGES: SQL,SQL,Oracle,Python.
+TOOLS: Linux,agile.
+EXPERIENCE: 5-8,years,experience,Experience,experience,Experience,Experience,experience,one.
+

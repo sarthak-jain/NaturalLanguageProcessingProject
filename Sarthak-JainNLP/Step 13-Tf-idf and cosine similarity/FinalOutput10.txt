@@ -1,0 +1,8 @@
+ORGANIZATION: Seneca,Solutions,AV
+LOCATION:.
+TITLE: technician.
+DEGREE: Degree.
+LANGUAGES: AutoCAD.
+TOOLS: Audio,Visual,AV,AV,Audio,Visual,Audio,Visual,Visio,CTS,Audio,Visual.
+EXPERIENCE: experience,Experience,Experience,5,+,year,experience,3,+,year,experience,experience,5,years.
+

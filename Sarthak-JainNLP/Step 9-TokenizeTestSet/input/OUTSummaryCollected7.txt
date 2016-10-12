@@ -1,0 +1,22 @@
+Location/O :/O Crystal/LOCATION City/LOCATION ,/O VA/LOCATION Job/O Type/O :/O Full-Time/O Pay/O :/O Up/O to/O $/O 125K/year/O -LRB-/O Depends/O on/O Experience/EXP -RRB-/O Clearance/O :/O Clearable/ORGANIZATION US/ORGANIZATION Citizen/ORGANIZATION The/ORGANIZATION DevOps/ORGANIZATION System/ORGANIZATION Engineer/TITLE will/O be/O responsible/O for/O implementing/O continuous/O integration/O solutions/O utilizing/O automated/O tools/O to/O deploy/O usable/O and/O efficient/O customer/O facing/O applications/O ./O 
+ESSENTIAL/O FUNCTIONS/RESPONSIBILITIES/O :/O Automates/O the/O build/O and/O deployment/O of/O enterprise/TOOLS web/O applications/O ./O 
+Collaborates/O with/O various/O teams/O involved/O in/O software/O delivery/O -LRB-/O developers/O ,/O operations/O ,/O quality/O assurance/O ,/O management/O ,/O etc./O -RRB-/O ./O 
+Resolves/O complex/O issues/O ,/O conducts/O research/O ,/O and/O recommends/O solutions/O ./O 
+Provides/O timely/O updates/O on/O tasks/O and/O meets/O internal/O and/O client/O deadlines/O with/O high/O quality/O deliverables/O ./O 
+Works/O with/O customers/O and/O users/O to/O evaluate/O ,/O estimate/O and/O perform/O application/O development/O and/or/O business/O process/O change/O requests/O under/O the/O direction/O of/O the/O Technical/ORGANIZATION Lead/ORGANIZATION Develops/ORGANIZATION test/O scenarios/O and/O scripts/O as/O an/O integral/O component/O of/O the/O software/O quality/O assurance/O ./O 
+Perform/O additional/O duties/O as/O assigned/O ./O 
+EDUCATION/O ,/O EXPERIENCE/EXP ,/O &/O CERTIFICATIONS/O :/O Associates/ORGANIZATION Degree/DEGREE or/O higher/O in/O a/O related/O field/O ./O 
+Minimum/O of/O 5/EXP years/EXP of/O experience/EXP working/O in/O a/O similar/O capacity/O ./O 
+Minimum/O of/O 5/EXP years/EXP of/O experience/EXP working/O with/O complex/O software/O applications/O ./O 
+Minimum/O of/O 3/EXP years/EXP of/O experience/EXP working/O on/O an/O Agile/TOOLS Team/ORGANIZATION ,/O implementing/O Continuous/O Deployment/O solutions/O using/O automated/O toolsets/O ./O 
+Experience/EXP with/O continuous/O integration/O ,/O delivery/O and/O deployment/O ./O 
+Extensive/O experience/EXP with/O GIT/TOOLS ,/O Gradle/O ,/O Maven/TOOLS ,/O ANT/TOOLS ,/O Windows/TOOLS and/O Linux/TOOLS ./O 
+Familiarity/O with/O JIRA/TOOLS ,/O Rally/O or/O other/O Agile/TOOLS Lifecycle/ORGANIZATION Management/ORGANIZATION -LRB-/O ALM/ORGANIZATION -RRB-/O tool/O ./O 
+Familiarity/O with/O USCIS/ORGANIZATION environments/O highly/O desired/O ./O 
+Must/O be/O a/O U.S./LOCATION Citizen/MISC ./O 
+SPECIFIC/O KNOWLEDGE/O ,/O SKILLS/O ,/O &/O ABILITIES/O :/O Outstanding/O interpersonal/O and/O communication/O skills/O with/O the/O ability/O to/O effectively/O communicate/O across/O diverse/O audiences/O and/O influence/O cross/O functionally/O ./O 
+Ability/O to/O communicate/O technical/O concepts/O to/O a/O non-technical/O audience/O ./O 
+Ability/O to/O multi-task/O as/O well/O as/O be/O strategic/O ,/O creative/O and/O innovative/O in/O a/O dynamic/O ,/O fast/O paced/O environment/O ./O 
+Ability/O to/O work/O independently/O as/O well/O as/O a/O contributing/O member/O of/O the/O team/O ./O 
+Proven/O ability/O to/O complete/O goals/projects/O on/O time/O delivering/O high/O quality/O results/O ./O 
+Job/O Type/O :/O Full-time/O Salary/O :/O $/O 125,000.00/O //EXP year/EXP Required/O experience/EXP :/O DevOps/TOOLS :/O 5/EXP years/EXP Required/O license/O or/O certification/O :/O U.S./ORGANIZATION Citizen/ORGANIZATION 

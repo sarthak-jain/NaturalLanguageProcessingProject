@@ -1,0 +1,28 @@
+At/O SoundExchange/O ,/O we/O are/O re-architecting/O and/O rebuilding/O our/O core/O enterprise/TOOLS software/O platform/O to/O support/O our/O rapidly/O growing/O and/O evolving/O business/O ./O 
+Our/O new/O software/O platform/O will/O be/O a/O set/O of/O federated/O systems/O that/O are/O highly/O scalable/O ,/O accurate/O ,/O and/O modular/O ,/O leveraging/O both/O custom-built/O and/O 3rd/O party/O components/O ./O 
+We/O are/O seeking/O an/O individual/O to/O become/O a/O member/O of/O our/O growing/O Engineering/O team/O and/O implement/O SoundExchange/ORGANIZATION s/O software/O strategy/O ./O 
+This/O person/O will/O be/O an/O experienced/O Senior/O Software/O Engineer/TITLE that/O excels/O in/O a/O dynamic/O ,/O fast-moving/O ,/O and/O agile/TOOLS environment/O and/O is/O passionate/O about/O developing/O high/O quality/O ,/O scalable/O software/O ./O 
+Person/O will/O be/O responsible/O for/O the/O full/O lifecycle/O of/O software/O development/O requirements/O ,/O design/O ,/O development/O ,/O testing/O ,/O deployment/O ,/O and/O maintenance/O and/O support/O ./O 
+Person/O will/O work/O on/O developing/O new/O software/O ,/O reusing/O and/O repurposing/O our/O current/O software/O ,/O and/O integrating/O custom/O and/O 3rd/O party/O systems/O ./O 
+Person/O should/O be/O familiar/O with/O a/O variety/O of/O programming/O languages/O ,/O enterprise/TOOLS software/O engineering/O concepts/O ,/O models/O ,/O practices/O ,/O and/O processes/O ./O 
+Reports/O to/O Lead/O Software/O Engineer/TITLE ./O 
+Responsibilities/O :/O Be/O part/O of/O a/O small/O ,/O collaborative/O team/O designing/O and/O delivering/O internally/O and/O externally-facing/O software/O ./O 
+Implement/O software/O development/O tools/O and/O frameworks/O ./O 
+Perform/O requirements/O analysis/O ,/O design/O ,/O code/O ,/O test/O ,/O and/O maintain/O software/O ./O 
+Follow/O established/O software/O development/O standards/O and/O best/O practices/O ./O 
+Utilize/O automated/O software/O test/O tools/O and/O frameworks/O to/O achieve/O software/O quality/O ./O 
+Leverage/O and/O enhance/O continuous/O build/O and/O deployment/O tools/O ./O 
+Leverage/O and/O follow/O Agile/TOOLS software/O development/O practices/O and/O techniques/O ./O 
+Interface/O with/O key/O stakeholders/O in/O Project/O Management/O ,/O Business/O and/O Technology/ORGANIZATION Operations/ORGANIZATION to/O ensure/O high/O quality/O delivery/O of/O software/O projects/O on/O time/O and/O budget/O ./O 
+Responsible/O for/O solving/O highly/O technical/O and/O complex/O problems/O ./O 
+Skills/O and/O Qualifications/O :/O Requires/O a/O bachelor/DEGREE s/O degree/DEGREE in/O computer/O science/O or/O equivalent/O technical/O field/O ./O 
+At/O least/O 4/EXP years/EXP of/O experience/EXP in/O software/O engineering/development/O ./O 
+Proficient/O at/O designing/O and/O developing/O Linux-based/MISC software/O in/O Java/LANG or/O Python/LANG ./O 
+Proficient/O at/O designing/O relational/O data/O models/O and/O working/O with/O relational/O databases/O ./O 
+Experience/EXP in/O the/O following/O a/O plus/O -LRB-/O but/O not/O requisite/O -RRB-/O :/O Angular/O ,/O Bootstrap/TOOLS ,/O Spring/TOOLS ,/O AWS/TOOLS ./O 
+Familiar/O and/O comfortable/O with/O Agile/TOOLS software/O development/O processes/O and/O practices/O ./O 
+Excellent/O written/O and/O verbal/O communications/O and/O presentation/O skills/O ./O 
+Proven/O solid/O analytical/O and/O problem/O solving/O skills/O ./O 
+Ability/O to/O develop/O and/O maintain/O strong/O relationships/O with/O others/O ./O 
+To/O apply/O ,/O please/O send/O a/O cover/O letter/O and/O r/O sum/O to/O jobs@soundexchange.com/O ./O 
+733/O 10th/O Street/O NW/O 10th/O Floor/O Washington/LOCATION ,/O D.C./O 20001/O 

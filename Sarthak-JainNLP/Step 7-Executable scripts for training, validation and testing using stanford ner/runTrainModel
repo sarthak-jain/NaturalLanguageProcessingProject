@@ -1,0 +1,1 @@
+java -Xms4096m -cp .:stanford-ner.jar:lib/*:. edu.stanford.nlp.ie.crf.CRFClassifier -prop myprop.prop

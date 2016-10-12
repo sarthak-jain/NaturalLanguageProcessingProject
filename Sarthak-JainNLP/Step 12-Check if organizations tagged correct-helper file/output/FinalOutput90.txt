@@ -1,0 +1,8 @@
+ORGANIZATION: RRA
+LOCATION: DHTML.
+TITLE: Architect.
+DEGREE: B.S.,Master,degree,Bachelor.
+LANGUAGES: JavaScript,HTML,CSS,Java,SQL,Java,C#,C++,JavaScript,HTML,XML,CSS,SQL.
+TOOLS: AJAX,Agile,Apex,Visualforce,APIs,agile,scrum,AJAX,JSON,SaaS,IDE,Apex,Visualforce,APIs.
+EXPERIENCE: one,one,experience,Experience,experience,Experience,2,years,experience,experience,experience,experience,one,Experience,Experience,one,experience,experience,2,years.
+

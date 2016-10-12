@@ -1,0 +1,2 @@
+for f in `ls TestSet`; do java -cp .:stanford-ner.jar:lib/*:. edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier job1000-ner-model.ser.gz -textFile "/home/sj1826/input1000/stanford-ner-2015-12-09/TestSet/$f" > "/home/sj1826/input1000/stanford-ner-2015-12-09/TestedSet/OUT$f";
+done;

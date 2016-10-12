@@ -1,0 +1,8 @@
+ORGANIZATION:.
+LOCATION: Carrollton.
+TITLE: engineer,developer,developer.
+DEGREE:.
+LANGUAGES: C.
+TOOLS: SAAS,Git,Linux.
+EXPERIENCE: experience,Experience,Experience,Experience.
+

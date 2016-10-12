@@ -1,0 +1,8 @@
+ORGANIZATION: Wireless,Advocates,Wireless,Advocates,Wireless,Advocates,Wireless,Wireless,Wireless,Advocates,Wireless,Advocates,Advocates
+LOCATION: Seattle,WA,Wireless,Advocates.
+TITLE: Manager,manager,Manager.
+DEGREE:.
+LANGUAGES:.
+TOOLS:.
+EXPERIENCE: experience,2,+,years,experience.
+

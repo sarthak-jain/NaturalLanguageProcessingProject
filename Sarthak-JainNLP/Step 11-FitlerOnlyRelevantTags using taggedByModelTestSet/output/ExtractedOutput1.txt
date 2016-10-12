@@ -1,0 +1,8 @@
+ORGANIZATION: DJ,Business,Solutions,DoD,IVV,Chief,IVV,IVV,IVV,IVV,Federal,CIO,IVV,Author,IVV,IVV,Systems,Verification,Center,Verification,and,Validation,IVV,IVV,Certified,Earned,Value,Management,Cost,Account,Verification,and,Validation,Actively,ITIL,DC.
+LOCATION: HW,SW,Washington,DC,Washington.
+TITLE: Engineer,Engineer,Engineer,Manager,Engineer.
+DEGREE: Bachelor,Degree,Master,Degree.
+LANGUAGES:.
+TOOLS:.
+EXPERIENCE: experience,12,years,experience,experience,experience,Experience,experience,12,years,experience,experience,experience,10,years.
+

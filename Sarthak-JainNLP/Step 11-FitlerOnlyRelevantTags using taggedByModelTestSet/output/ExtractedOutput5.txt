@@ -1,0 +1,8 @@
+ORGANIZATION:.
+LOCATION: US.
+TITLE: engineer.
+DEGREE: Bachelor,degree.
+LANGUAGES: CSS,HTML5,JavaScript,Ruby,Groovy,SQL,Oracle,MySQL,JavaScript,NoSQL,Angular.js.
+TOOLS: open,source,agile,Agile,AJAX,JSON,Bootstrap,open,source,MVC,Spring,Hibernate,Amazon,Web,Services.
+EXPERIENCE: 5,+,years,experience,experience,experience,experience,experience,Experience,Experience,experience.
+

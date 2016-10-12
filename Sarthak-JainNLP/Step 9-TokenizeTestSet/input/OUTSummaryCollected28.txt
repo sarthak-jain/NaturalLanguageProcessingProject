@@ -1,0 +1,40 @@
+Consulting/ORGANIZATION Services/ORGANIZATION Group/ORGANIZATION ,/O LLC/ORGANIZATION -LRB-/O www.csg-llcusa.com/O -RRB-/O Consulting/O Services/O Group/O -LRB-/O CSG/ORGANIZATION -RRB-/O is/O a/O niche/O provider/O of/O intelligence/O related/O support/O services/O ./O 
+Our/O team/O of/O seasoned/O professionals/O has/O vast/O experience/EXP in/O the/O Intelligence/ORGANIZATION Community/ORGANIZATION and/O DOD/ORGANIZATION experience/EXP ,/O with/O subject/O matter/O expertise/O in/O the/O areas/O of/O Technical/IT/O Services/O ,/O Operations/ORGANIZATION and/ORGANIZATION Maintenance/ORGANIZATION ,/O Knowledge/ORGANIZATION Management/ORGANIZATION ,/O Language/ORGANIZATION Services/ORGANIZATION ,/O and/O Intelligence/ORGANIZATION Services/ORGANIZATION -LRB-/O IMINT/O ,/O FMV/ORGANIZATION ,/O GEOINT/LOCATION ,/O MASINT/LOCATION ,/O HUMINT/LOCATION ,/O All/ORGANIZATION Source/ORGANIZATION ,/O Counter/ORGANIZATION Intelligence/ORGANIZATION ,/O Counter/ORGANIZATION Threat/ORGANIZATION Finance/ORGANIZATION ,/O and/O SME/ORGANIZATION for/ORGANIZATION Intelligence/ORGANIZATION Analysis/ORGANIZATION Technologies/ORGANIZATION ./O 
+Clearance/O Requirement/O :/O Active/O TS/SCI/O clearance/O with/O a/O full/O scope/O polygraph/O is/O required/O ./O 
+Benefits/O :/O Salary/O We/O offer/O competitive/O compensation/O packages/O with/O plenty/O of/O opportunity/O for/O advancement/O ./O 
+Health/ORGANIZATION Insurance/ORGANIZATION CSG/ORGANIZATION will/O pay/O 100/O %/O of/O the/O employee/O s/O health/O insurance/O ./O 
+Family/O insurance/O options/O are/O available/O through/O payroll/O deduction/O ./O 
+We/O offer/O comprehensive/O medical/O ,/O prescription/O drug/O ,/O -LRB-/O Anthem/O //EXP Blue/O Cross/Blue/O Shield/O -RRB-/O dental/O ,/O -LRB-/O Delta/O Dental/O -RRB-/O and/O vision/O -LRB-/O Blue/MISC View/MISC Vision/MISC -RRB-/O ;/O life/O insurance/O -LRB-/O one/EXP year/EXP salary/O up/O to/O $/O 200,000/O -RRB-/O ,/O DBA/ORGANIZATION -LRB-/O for/O OCONUS/ORGANIZATION employees/O -RRB-/O ,/O and/O short/O and/O long/O term/O disability/O ./O 
+401K/O Program/O CSG/ORGANIZATION has/O partnered/O with/O ADP/ORGANIZATION Retirement/ORGANIZATION Services/ORGANIZATION to/O offer/O employees/O a/O robust/O 401/O -LRB-/O K/O -RRB-/O program/O ./O 
+Employees/O are/O eligible/O to/O participate/O in/O the/O program/O through/O pre-tax/O deductions/O after/O their/O first/O paycheck/O ./O 
+The/O company/O will/O match/O 25/O %/O of/O the/O first/O 4/EXP %/O of/O employee/O contribution/O ./O 
+Software/O Engineer/TITLE Herndon/LOCATION ,/O Virginia/LOCATION The/O Sponsor/O is/O seeking/O a/O Software/O Engineer/TITLE that/O provides/O front-end/O development/O support/O to/O an/O ExtJS/O UI/ORGANIZATION and/O back-end/O Ruby/LANG on/O Rails/O web/O application/O that/O provides/O social/O bookmarking/O and/O collaboration/O capabilities/O ./O 
+Duties/O include/O ,/O but/O not/O limited/O to/O :/O Analyze/O and/O study/O complex/O system/O requirements/O ./O 
+Design/O software/O tools/O and/O subsystems/DEGREE to/O support/O software/O reuse/O and/O domain/O analyses/O and/O manage/O their/O implementation/O ./O 
+Translate/O detailed/O design/O into/O computer/O software/O ./O 
+Implement/O COTS/O packages/O ./O 
+Test/O ,/O debug/O ,/O and/O refine/O the/O computer/O software/O to/O produce/O the/O required/O product/O ./O 
+Prepare/O required/O documentation/O ,/O including/O both/O program-level/O and/O user-level/O documentation/O ./O 
+Enhance/O software/O to/O reduce/O operating/O time/O or/O improve/O efficiency/O ./O 
+Provide/O technical/O guidance/O in/O software/O engineering/O techniques/O and/O automated/O support/O tools/O ./O 
+Provide/O technical/O direction/O to/O programmers/O to/O ensure/O program/O deadlines/O are/O met/O ./O 
+Mandatory/O Skills/O :/O 1/EXP ./O 
+Minimum/O 3/EXP years/EXP demonstrated/O on-the-job/O experience/EXP with/O MySQL/LANG relational/O database/O system/O ./O 
+2/EXP ./O 
+Demonstrated/O on-the-job/O experience/EXP with/O Ruby/LANG on/O Rails/O application/O development/O ./O 
+3/EXP ./O 
+Demonstrated/O on-the-job/O experience/EXP with/O Ruby/LANG on/O Rails/O code/O deployment/O techniques/O ./O 
+Desired/O Skills/O :/O 1/EXP ./O 
+Demonstrated/O on-the-job/O experience/EXP testing/O in/O Ruby/LANG on/O Rails/O ./O 
+2/EXP ./O 
+Demonstrated/O on-the-job/O experience/EXP with/O RESTful/TOOLS Web/ORGANIZATION Services/ORGANIZATION ./O 
+3/EXP ./O 
+Demonstrated/O on-the-job/O experience/EXP with/O ExtJS/O ./O 
+4/EXP ./O 
+Demonstrated/O on-the-job/O experience/EXP with/O AngularJS/O ./O 
+5/EXP ./O 
+Demonstrated/O on-the-job/O experience/EXP with/O Amazon/TOOLS Web/TOOLS Services/TOOLS -LRB-/O AWS/TOOLS -RRB-/O ./O 
+6/O ./O 
+Demonstrated/O on-the-job/O experience/EXP with/O SOLR/ORGANIZATION ./O 
+Consulting/O Services/O Group/O provides/O equal/O employment/O opportunities/O -LRB-/O EEO/O -RRB-/O to/O all/O employees/O and/O applicants/O for/O employment/O without/O regard/O to/O race/O ,/O color/O ,/O religion/O ,/O sex/O ,/O national/O origin/O ,/O age/O ,/O disability/O ,/O or/O genetics/O ./O 
+For/O additional/O information/O about/O Consulting/ORGANIZATION Services/ORGANIZATION Group/ORGANIZATION or/O the/O position/O ,/O please/O email/O John/PERSON at/O jreidy@csg-llcusa.com/O ./O 

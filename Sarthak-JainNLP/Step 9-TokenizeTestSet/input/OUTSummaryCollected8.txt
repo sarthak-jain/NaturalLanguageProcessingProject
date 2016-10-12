@@ -1,0 +1,22 @@
+Position/O Description/O and/O Responsibilities/O :/O Senior/O software/O engineer/TITLE with/O minimum/O 4/EXP years/EXP of/O experience/EXP building/O dynamic/O web/O applications/O on/O a/O Java/LANG technology/O stack/O ./O 
+Skillset/O and/O interests/O should/O focus/O on/O front-end/O development/O utilizing/O HTML/LANG ,/O CSS/LANG ,/O and/O JavaScript/LANG frameworks/O for/O building/O web-based/O single-page/O applications/O ./O 
+Candidate/O must/O be/O willing/O to/O work/O collaboratively/O in/O a/O team/O environment/O and/O manage/O multiple/O assignments/O ./O 
+Must/O actively/O support/O and/O contribute/O to/O the/O Agile/TOOLS practices/O adopted/O by/O the/O development/O team/O ./O 
+Must/O have/O a/O proven/O history/O of/O building/O responsive/O web/O applications/O and/O working/O as/O a/O multi-tier/O developer/TITLE who/O can/O contribute/O to/O development/O efforts/O on/O database/O ,/O server/O and/O user/O interface/O components/O ./O 
+Required/O Skills/O :/O -/O Strong/O web/O application/O development/O experience/EXP using/O Java/LANG EE/LANG ,/O JPA/TOOLS ,/O JavaScript/LANG ,/O JSON/TOOLS ,/O HTML/LANG and/O CSS/LANG ./O 
+-/O Experience/EXP building/O responsive/O web/O applications/O that/O utilize/O Ajax/O to/O minimize/O page/O reloads/O ./O 
+-/O Experience/EXP with/O user/O interface/O frameworks/O such/O as/O Bootstrap/TOOLS ,/O AngularJs/O ,/O Dojo/PERSON and/O JQuery/LANG ./O 
+-/O HTML/LANG user/O interface/O design/O and/O layout/O ./O 
+-/O Web/O services/O using/O REST/LANG and/O SOAP/LANG ./O 
+-/O Experience/EXP working/O in/O an/O Agile/TOOLS environment/O such/O as/O scrum/TOOLS ./O 
+Participate/O in/O stand-ups/O ,/O retrospectives/O ,/O planning/O and/O other/O required/O meetings/O ./O 
+-/O Knowledge/O of/O object/O oriented/O design/O and/O design/O patterns/O ./O 
+-/O Create/O unit/O tests/O for/O development/O code/O ./O 
+Desired/O Skills/O :/O -/O Experience/EXP using/O JPA/TOOLS and/O object/relational/O mapping/O libraries/O such/O as/O Hibernate/TOOLS ./O 
+Understanding/O of/O transaction/O management/O incorporated/O by/O the/O application/O server/O ./O 
+-/O Experience/EXP tuning/O database/O queries/O and/O troubleshooting/O database/O operations/O ./O 
+-/O Deploying/O applications/O to/O Websphere/O and/O Weblogic/MISC application/O servers/O ./O 
+-/O Proficiency/O in/O SQL/LANG and/O experience/EXP with/O Oracle/LANG database/O products/O ./O 
+-/O B.S./DEGREE Computer/ORGANIZATION Science/ORGANIZATION or/O related/O field/O ./O 
+-/O Experience/EXP with/O 508/O compliance/O ./O 
+Job/O Type/O :/O Full-time/O Local/O candidates/O only/O :/O Springfield/LOCATION ,/O VA/LOCATION Required/O experience/EXP :/O Java/LANG :/O 4/EXP years/EXP Required/O education/O :/O Bachelor/DEGREE 's/O 

@@ -1,0 +1,8 @@
+ORGANIZATION:
+LOCATION: Amazon,CIS,CI,Mocha.
+TITLE: Engineer.
+DEGREE: Bachelor,Master,degree.
+LANGUAGES: JavaScript,HTML5.
+TOOLS: Agile,enterprise,SCRUM,Bootstrap,Jenkins,Maven,RESTful,APIs,Amazon,Web,Services,AWS,OOP,Agile.
+EXPERIENCE: one,experience,Experience,Experience,Experience.
+

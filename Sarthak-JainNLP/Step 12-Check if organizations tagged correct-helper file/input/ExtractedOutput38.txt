@@ -1,0 +1,8 @@
+ORGANIZATION: GSA,From,Monoliths,to,Service,Oriented,Architectures,OSS,OSS,OSS,Go,Lang,Mastered,Inc,Federal,Solutions,Inc,Generate,Methodologies,Security,Clearance,Security,Clearance,Vision,SF,Giants,Golden,State,Warriors,&,Tech,Talks,Docker,,,Inc.,ADP,BBC,ING,Spotify,Cloud,Foundry,Google,IBM,Microsoft,OpenStack,VMware,Docker,,,Inc.,AME,Cloud,Ventures,Sequoia,Capital,Insight,Venture,Partners,Northern,Trust,SV,Angel,Trinity,Ventures.
+LOCATION: Baidu.
+TITLE: Engineer.
+DEGREE:.
+LANGUAGES: Java,Python,Ruby,Puppet.
+TOOLS: Docker,Linux,Linux,Docker,Docker,Docker,Docker,Linux,Windows,Docker,open,source,Docker,Docker,open,source,Docker,Docker,AWS.
+EXPERIENCE: two,Experience,Experience.
+

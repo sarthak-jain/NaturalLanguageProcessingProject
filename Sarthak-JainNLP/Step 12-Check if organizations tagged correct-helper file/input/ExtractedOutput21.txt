@@ -1,0 +1,8 @@
+ORGANIZATION: Systems,Analysts,User,Interface,Microsoft,Microsoft,Microsoft,Access,Rational,Rose,Rational,Clearquest,Microsoft.
+LOCATION:.
+TITLE: Developer.
+DEGREE: Bachelors,degree.
+LANGUAGES: C#,XML,SQL.
+TOOLS: VB.NET,Visio.
+EXPERIENCE: Experience,2,years,experience.
+

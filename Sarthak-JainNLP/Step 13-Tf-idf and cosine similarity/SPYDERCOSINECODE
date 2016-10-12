@@ -1,0 +1,33 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue May 10 14:28:57 2016
+
+@author: Ritu
+"""
+
+documents = (
+"NAME: Judy Rich., DEGREE: Master,Bachelor,degree., LANGUAGES: Java,Perl,Ruby,Python,HTML,C,C++,ColdFusion,Adobe,SQL,Oracle,MySQL., TOOLS: Windows,Linux,Spring,SCRUM., EXPERIENCE: 12 years of experience.",
+"ORGANIZATION: American,Institutes,for,Research,DC,Contract,Software,Engineer,B.S.,XML., LOCATION: Washington., DEGREE:., LANGUAGES: C#,C#,SQL,SQL., TOOLS:., EXPERIENCE: one,experience,4,years,experience,2-3,years,experience,Experience,Experience,experience,4,years.,",
+"ORGANIZATION: Consulting,Services,Group,LLC,CSG,Health,Insurance,CSG,Dental,Insurance,CSG,PTO,CSG,PTO,VA,All,U.S.,Citizenship,JBDC,Ozone,Widgets,Computer,Science,Additional,Responsibilities,Certified,Information,Systems,Security,Professional,CISSP,EEO,Consulting,Services,Group., LOCATION: Arlington., DEGREE: Master,degree,Bachelor,degree,degree,degree,Master,Master., LANGUAGES: Java,Perl,Ruby,Python,HTML,C,C++,ColdFusion,Adobe,SQL,Oracle,MySQL., TOOLS: Windows,Linux,Spring,Struts,JUnit,Hibernate,Agile,CVS,Eclipse,ClearCase,Cucumber,Agile,SCRUM., EXPERIENCE: per,year,10,4,experience,/,/,experience,one,experience,one,experience,one,Experience,Experience,Experience,Experience,12,more,years,experience,two,2,years,experience,four,4,years,experience,12,years,experience,more,years,Experience.,",
+"ORGANIZATION: Inc,Manassas,US,Navy,JBoss,EAP,Ant,Jenkins,Fortify,VisualBasic,Subversion,US,Citizenship,VEVRAA,Federal,Contractor,All., LOCATION: VA,Manassas,VA., DEGREE: Bachelor., LANGUAGES: Java,Oracle,SQL,Java,JavaScript,JPA., TOOLS: agile,agile,JUnit,Spring,Hibernate,Eclipse., EXPERIENCE: experience,Experience,1-5,years,experience,1-5,years,1,year.,"
+#"The sun in the sky is bright",
+#"We can see the shining sun, the bright sun"
+)
+
+from sklearn.feature_extraction.text import TfidfVectorizer
+tfidf_vectorizer = TfidfVectorizer()
+tfidf_matrix = tfidf_vectorizer.fit_transform(documents)
+print tfidf_matrix.shape
+from sklearn.metrics.pairwise import cosine_similarity
+print tfidf_matrix
+cos_sim1 = cosine_similarity(tfidf_matrix[0:1], tfidf_matrix)
+print cos_sim1
+#print cosine_similarity(tfidf_matrix[0:1], tfidf_matrix)
+#print max(cos_sim1.index(0))
+
+
+import math
+# This was already calculated on the previous step, so we just use the value
+cos_sim = 0.52305744
+angle_in_radians = math.acos(cos_sim)
+print math.degrees(angle_in_radians)

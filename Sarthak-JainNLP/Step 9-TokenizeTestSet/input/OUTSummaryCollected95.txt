@@ -1,0 +1,27 @@
+About/O Vitech/PERSON Vitech/PERSON is/O one/EXP of/O the/O world/O s/O leading/O providers/O of/O financial/O and/O benefit/O administration/O software/O ./O 
+We/O serve/O insurance/O ,/O retirement/O and/O investment/O organizations/O and/O our/O over/O 100/O clients/O include/O the/O premier/O entities/O in/O each/O of/O our/O markets/O ./O 
+Our/O software/O ,/O V3/O ,/O is/O a/O unique/O administration/O platform/O specifically/O designed/O to/O address/O the/O unique/O needs/O of/O group/O benefits/O and/O alternative/O asset/O administration/O ./O 
+We/O are/O headquartered/O in/O New/LOCATION York/LOCATION City/LOCATION with/O staff/O and/O clients/O located/O across/O the/O United/LOCATION States/LOCATION and/O around/O the/O world/O ./O 
+We/O provide/O the/O V3/O software/O ,/O implementation/O and/O support/O services/O and/O offer/O cloud-based/O solution/O hosting/O ./O 
+We/O employ/O 850/O full/O time/O employees/O experienced/O in/O both/O enterprise/TOOLS software/O technology/O and/O the/O specific/O business/O domains/O in/O which/O we/O work/O ./O 
+We/O are/O dedicated/O to/O helping/O our/O clients/O improve/O their/O market/O agility/O ,/O raise/O their/O service/O levels/O and/O streamline/O their/O operations/O while/O consolidating/O and/O modernizing/O their/O legacy/O administration/O platforms/O ./O 
+Our/O clients/O collectively/O administer/O over/O $/O 1/EXP trillion/O in/O coverage/O and/O serve/O nearly/O 20/EXP million/O individuals/O ./O 
+Here/O s/O your/O chance/O to/O join/O a/O dynamic/O ,/O global/O team/O of/O technology/O and/O domain/O subject/O matter/O experts/O ,/O developers/O ,/O quality/O assurance/O experts/O and/O business/O analysts/O who/O are/O helping/O shape/O the/O future/O of/O technology/O ./O 
+We/O offer/O a/O competitive/O compensation/O package/O and/O a/O comprehensive/O benefits/O program/O to/O ensure/O employees/O '/O health/O ,/O well-being/O and/O financial/O security/O ./O 
+Visit/O us/O on/O the/O web/O at/O :/O www.vitechinc.com/O Overview/O You/O are/O adept/O at/O working/O with/O cutting-edge/O technology/O ./O 
+You/O are/O sharp/O ,/O driven/O and/O inspired/O by/O taking/O on/O challenges/O in/O a/O fast-paced/O environment/O ./O 
+If/O this/O is/O you/O ,/O Vitech/ORGANIZATION Systems/ORGANIZATION Group/ORGANIZATION wants/O you/O to/O join/O our/O Development/O team/O as/O a/O full-time/O Oracle/LANG Developer/TITLE to/O lead/O and/O drive/O innovation/O ./O 
+Be/O a/O part/O of/O a/O thriving/O company/O with/O both/O an/O entrepreneurial/O spirit/O and/O the/O experience/EXP of/O an/O industry/O leader/O !/O 
+As/O an/O Oracle/LANG PL/SQL/LANG Developer/TITLE with/O Vitech/PERSON ,/O you/O will/O be/O a/O key/O member/O of/O the/O Database/ORGANIZATION Group/ORGANIZATION responsible/O for/O providing/O overall/O database/O support/O with/O concentration/O in/O back-end/O programming/O ./O 
+The/O Oracle/LANG Developer/TITLE Developer/TITLE will/O be/O responsible/O to/O properly/O maintain/O source/O code/O sets/O and/O necessary/O technical/O documentation/O ,/O and/O assist/O the/O DBA/ORGANIZATION 's/O in/O overall/O database/O maintenance/O ./O 
+In/O this/O role/O ,/O you/O 'll/O leverage/O your/O knowledge/O of/O Oracle/LANG database/O development/O and/O be/O instrumental/O in/O the/O successful/O implementation/O of/O our/O browser-based/O ,/O enterprise/TOOLS software/O product/O ./O 
+Requirements/O 3/EXP +/EXP years/EXP working/O with/O Oracle/LANG development/O ./O 
+Develop/O ,/O design/O ,/O test/O and/O implement/O complex/O database/O programs/O using/O Oracle/LANG and/O third/O party/O tools/O ./O 
+Experience/EXP with/O Oracle/LANG Version/ORGANIZATION 10g/O ,/O 11g/O ,/O 12c/O Strong/O experience/EXP with/O oracle/O functions/O ,/O procedures/O ,/O triggers/O ,/O packages/O &/O performance/O tuning/O ,/O Ensure/O that/O database/O programs/O are/O in/O compliance/O with/O Vitech/ORGANIZATION standards/O ./O 
+Hands/O on/O development/O using/O Oracle/LANG PL/SQL/LANG -LRB-/O PLSQL/O -RRB-/O ./O 
+Performance/O tune/O SQL/LANG 's/O ,/O application/O programs/O and/O instances/O ./O 
+Evaluation/O of/O new/O and/O upcoming/O technologies/O ./O 
+Providing/O technical/O assistance/O ,/O problem/O resolution/O and/O troubleshooting/O support/O ./O 
+Bachelor/DEGREE s/O degree/DEGREE in/O Computer/O Sciences/O ,/O Information/ORGANIZATION Technology/ORGANIZATION and/or/O related/O discipline/O required/O ./O 
+Master/DEGREE s/O degree/DEGREE in/O same/O or/O similar/O a/O plus/O Apply/O for/O role/O on/O our/O website/DEGREE :/O https://chp.tbe.taleo.net/chp03/ats/careers/requisition.jsp?org=VITECH&cws=1&rid=454/O Vitech/ORGANIZATION Systems/ORGANIZATION Group/ORGANIZATION is/O an/O equal/O opportunity/O employer/O -LRB-/O EOE/O -RRB-/O ,/O M/F/Disability/O //EXP Veterans/O ,/O and/O strongly/O supports/O diversity/O in/O the/O workforce/O ./O 
+Job/O Type/O :/O Full-time/O Required/O experience/EXP :/O Oracle/LANG Development/O :/O 3/EXP years/EXP Required/O education/O :/O Bachelor/DEGREE 's/O 

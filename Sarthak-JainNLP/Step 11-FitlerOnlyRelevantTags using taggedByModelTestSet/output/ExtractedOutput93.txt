@@ -1,0 +1,8 @@
+ORGANIZATION: Fluent,Other,Skills,and,Tools,Comfortable,Must,Interpersonal,Skills,Must.
+LOCATION: IDEs.
+TITLE: Developer,Developer.
+DEGREE: Bachelor.
+LANGUAGES: HTML,HTML5,CSS,PHP,JavaScript,Java,SQL.
+TOOLS: OOP,json,struts,hibernate,Git,Eclipse,Linux.
+EXPERIENCE: /,experience,1,year.
+

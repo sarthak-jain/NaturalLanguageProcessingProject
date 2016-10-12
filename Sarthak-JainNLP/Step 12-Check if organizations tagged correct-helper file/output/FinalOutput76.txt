@@ -1,0 +1,8 @@
+ORGANIZATION: ,,Services,,,,,,
+LOCATION: Fairmont,Public,Trust,Fairmont.
+TITLE: Engineer,developer,developer.
+DEGREE: Bachelor,degree,Subsystem,Subsystem,Bachelor.
+LANGUAGES: C++,C.
+TOOLS: UML,agile.
+EXPERIENCE: experience,five,two,2,three,3,Experience,Experience,Experience,experience,Experience,Experience,Experience,Experience,experience,2,years.
+

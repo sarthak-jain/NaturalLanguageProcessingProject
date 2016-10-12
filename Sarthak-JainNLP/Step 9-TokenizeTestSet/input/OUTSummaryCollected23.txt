@@ -1,0 +1,17 @@
+Overview/O :/O The/O qualified/O applicant/O will/O help/O support/O the/O U.S./LOCATION Customs/MISC and/O Border/O Protection/O -LRB-/O CBP/O -RRB-/O Passenger/ORGANIZATION Systems/ORGANIZATION Program/ORGANIZATION Office/ORGANIZATION -LRB-/O PSPO/ORGANIZATION -RRB-/O suite/O of/O computer/O and/O automated/O software/O applications/O ./O 
+CBP/ORGANIZATION PSPO/ORGANIZATION supports/O a/O broad/O range/O of/O complex/O business/O systems/O which/O are/O instrumental/O to/O the/O CBP/ORGANIZATION mission/O of/O securing/O our/O borders/O while/O facilitating/O legitimate/O trade/O and/O travel/O ./O 
+Responsibilities/O :/O Analyzes/O functional/O business/O applications/O and/O design/O specifications/O for/O functional/O activities/O ./O 
+Develops/O code/O and/O databases/O ,/O tests/O ,/O and/O debugs/O new/O software/O or/O enhancements/O to/O existing/O software/O and/O databases/O ./O 
+Performs/O maintenance/O on/O existing/O software/database/O products/O and/O contributes/O knowledge/O of/O business/O applications/O ./O 
+Develops/O services/O ,/O programs/O and/O databases/O according/O to/O specifications/O ./O 
+Conducts/O integration/O testing/O ./O 
+Works/O with/O the/O technical/O staff/O to/O understand/O problems/O had/O with/O application/O and/O then/O resolve/O them/O ./O 
+Resolves/O customer/O complaints/O with/O the/O application/O and/O responds/O to/O suggestions/O for/O improvements/O and/O enhancements/O ./O 
+Prepares/O required/O documentation/O ./O 
+Provides/O technical/O direction/O to/O programmers/O to/O ensure/O program/O deadlines/O are/O met/O ./O 
+Qualifications/O :/O Bachelor/DEGREE 's/O degree/DEGREE in/O Computer/O Science/O or/O related/O field/O and/O 4/EXP years/EXP '/O experience/EXP ./O 
+Must/O have/O an/O active/O or/O be/O able/O to/O obtain/O a/O DHS/CBP/O security/O clearance/O ./O 
+Experience/EXP with/O legacy/O mainframe/COBOL/Datacom/O as/O well/O as/O Java/LANG JEE/ORGANIZATION technologies/O ,/O Agile/TOOLS ,/O Spring/TOOLS ,/O and/O Web/O Logic/O preferred/O ./O 
+Develop/O against/O the/O functional/O ,/O technical/O ,/O and/O performance/O requirements/O ./O 
+Documents/O the/O design/O and/O implementation/O Familiarity/O with/O writing/O database/O procedures/O and/O packages/O ./O 
+Applicant/O must/O have/O experience/EXP with/O automated/O tools/O as/O well/O as/O collaboration/O and/O tracking/O tools/O ,/O JIRA/TOOLS and/O Confluence/LOCATION Wiki/LOCATION Prior/O experience/EXP with/O CBP/ORGANIZATION desired/O ./O 

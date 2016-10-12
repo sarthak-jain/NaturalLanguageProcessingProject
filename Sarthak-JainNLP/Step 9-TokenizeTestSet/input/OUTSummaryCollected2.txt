@@ -1,0 +1,7 @@
+Gov/O '/O t/O Contractor/O seeks/O senior/O data/O engineer/TITLE to/O support/O GEOINT/O Analysts/O ./O 
+You/O will/O analyze/O requirements/O and/O needs/O of/O the/O intelligence/O problem/O and/O design/O ,/O code/O ,/O integrate/O and/O test/O software/O solutions/O ./O 
+through/O software/O algorithms/O ./O 
+Setup/O and/O configuration/O of/O development/O environment/O to/O build/O and/O create/O applications/O to/O interact/O with/O web/O service/O connections/O ./O 
+Movement/O of/O data/O from/O one/EXP format/O to/O another/O via/O TCP/IP/O ./O 
+Security/O clearance/O required/O ./O 
+Job/O Type/O :/O Full-time/O Salary/O :/O $/O 140,000.00/O //EXP year/EXP Required/O experience/EXP :/O Software/O Developer/TITLE :/O 7/EXP years/EXP Required/O education/O :/O Bachelor/DEGREE 's/O 

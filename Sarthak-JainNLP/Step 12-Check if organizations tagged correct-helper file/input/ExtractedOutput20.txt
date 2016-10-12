@@ -1,0 +1,8 @@
+ORGANIZATION: Application,Resource,Planning,Resource,Planning,PeopleSoft,COTS,ERP,People,Tools,and,Technology,People,Tools,Application,Database,Administrator,Certified,Processional,Microsoft,Solutions,Expert,Data,Platform.
+LOCATION:.
+TITLE: Engineer,engineer,developer,Developer.
+DEGREE: Bachelor,Degree,substituted,Master,Degree.
+LANGUAGES: SQL,SQL,SQL,Oracle,Oracle,SQL.
+TOOLS: Enterprise,ERP,Enterprise,ERP,ERP,ERP,ERP,ERP,ERP,SDLC,ERP,ERP,ERP,SDLC,Windows,Linux,Hat,Enterprise,SaaS,PaaS,Amazon,Web,Services,MCSE,CASP,CISSP,PMP.
+EXPERIENCE: 4-6,years,experience,6-8,years,experience,one,Two,years,experience,experience,Experience,one,Experience,Experience,experience,Experience,One,experience,experience,/.
+

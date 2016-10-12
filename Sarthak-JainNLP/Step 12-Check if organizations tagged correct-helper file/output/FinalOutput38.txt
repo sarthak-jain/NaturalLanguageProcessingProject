@@ -1,0 +1,8 @@
+ORGANIZATION: Go,Docker,,,Docker,,
+LOCATION: Baidu.
+TITLE: Engineer.
+DEGREE:.
+LANGUAGES: Java,Python,Ruby,Puppet.
+TOOLS: Docker,Linux,Linux,Docker,Docker,Docker,Docker,Linux,Windows,Docker,open,source,Docker,Docker,open,source,Docker,Docker,AWS.
+EXPERIENCE: two,Experience,Experience.
+

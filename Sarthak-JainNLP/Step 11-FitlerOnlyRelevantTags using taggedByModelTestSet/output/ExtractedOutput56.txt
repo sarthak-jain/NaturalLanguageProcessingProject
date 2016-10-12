@@ -1,0 +1,8 @@
+ORGANIZATION: Ideal,Innovations,,,Inc.,Biometrics,Joint,Personnel,Identification,JPI,Program,Basic,Information,Systems,Microsoft,Model,View,Controller,Electronic,Biometric,Transmission,Standard,Ideal,Innovations,,,Inc.,Ideal,Innovations,,,Inc.,VEVRAA,Federal,Contractor.
+LOCATION: U.S.,IA,Herndon,VA.
+TITLE:.
+DEGREE: degree,Bachelor,Degree,substituted,Bachelor.
+LANGUAGES: C#,SQL,C#,JavaScript,JQuery,C#.
+TOOLS: Visual,SDLC,agile,Scrum,Visual,Visual,Studio,UML,agile,agile,Scrum,Git,Windows,WCF,Windows,ASP,Visual.
+EXPERIENCE: experience,8,years,experience,five,years,experience,experience,experience,Experience,experience,experience,5,years.
+

@@ -1,0 +1,8 @@
+ORGANIZATION:
+LOCATION:.
+TITLE: engineer.
+DEGREE: Bachelor,Degree,Bachelor.
+LANGUAGES: C#,SOAP,XML,JQuery,Oracle,SQL,SQL,REST,XML,SOAP.
+TOOLS: Crystal,Reports,WCF,JSON.
+EXPERIENCE: experience,Experience,Experience,experience,Experience,Experience,3,+,years,experience,experience,3,years.
+

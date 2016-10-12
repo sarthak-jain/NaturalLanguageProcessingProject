@@ -1,0 +1,8 @@
+ORGANIZATION: Pitchfork,Provisions,@,Duke,Skillet,Faculty,Commons,Chophouse,&,Chef,Dish,Washers,Line,Cooks,Prep,Cooks,Sous,Chefs,Servers,Banquet,Attendants,Cashiers,Facilities,Depending,West,Union,Jobs,Visit.
+LOCATION: Duke.
+TITLE:.
+DEGREE:.
+LANGUAGES:.
+TOOLS:.
+EXPERIENCE: experience,experience,1,year.
+

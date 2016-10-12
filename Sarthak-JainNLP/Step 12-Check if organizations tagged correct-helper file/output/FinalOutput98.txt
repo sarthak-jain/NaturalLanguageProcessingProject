@@ -1,0 +1,8 @@
+ORGANIZATION:
+LOCATION: Rochester,NY,Rochester.
+TITLE: Engineer,Engineer,Director.
+DEGREE: BS,degree,Bachelor.
+LANGUAGES: C#,C#.
+TOOLS: visual,studio,ASP.net.
+EXPERIENCE: Experience,Experience,experience,3,years.
+

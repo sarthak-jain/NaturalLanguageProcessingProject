@@ -1,0 +1,8 @@
+ORGANIZATION: Reinventing,Geospatial,,,Reinventing,Geospatial,,
+LOCATION:.
+TITLE:.
+DEGREE: BS,degree.
+LANGUAGES: JavaScript,Java,HTML,CSS,C#,Python.
+TOOLS: MVC,Linux,agile.
+EXPERIENCE: 1,5,years,experience,one,/.
+

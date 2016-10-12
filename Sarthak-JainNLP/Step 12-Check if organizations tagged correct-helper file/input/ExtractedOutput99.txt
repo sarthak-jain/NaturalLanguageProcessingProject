@@ -1,0 +1,8 @@
+ORGANIZATION: Affinity,Inc.,Personal,Development,Personal,Development,Case,Management,LCPC,LCSW,ASAM,Disorders,Treatment,CBT,MRT,DBT,CSC,Trauma,Domestic,Violence,Case,Management,DUI,Education,Evaluator,Certification,Affinity,Inc..
+LOCATION: LMFT.
+TITLE:.
+DEGREE: substance,Masters,Degree.
+LANGUAGES: LPC.
+TOOLS:.
+EXPERIENCE: Experience,/,EXPERIENCE.
+

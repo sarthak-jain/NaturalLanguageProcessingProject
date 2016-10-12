@@ -1,0 +1,8 @@
+ORGANIZATION:.
+LOCATION:.
+TITLE:.
+DEGREE: Degree,Bachelor.
+LANGUAGES: Java,JavaScript.
+TOOLS: visual.
+EXPERIENCE: experience,1,year.
+

@@ -1,0 +1,8 @@
+ORGANIZATION: Microsoft,SOA,Microsoft,Entity,Frameworks,and,Inversion,of,Control,Frameworks,Financial,Services,Project,Management,Methodologies.
+LOCATION: Arlington,VA.
+TITLE: engineer,engineer,developer.
+DEGREE: Bachelor.
+LANGUAGES:.
+TOOLS: SDLC,enterprise,WCF,TFS,WCF,NHibernate,Agile.
+EXPERIENCE: experience,Experience,3-6,years,Experience,Experience,Experience,Experience,Experience,Experience,Experience,Experience,experience,5,years.
+

@@ -1,0 +1,8 @@
+ORGANIZATION:.
+LOCATION:.
+TITLE: engineer,Developer.
+DEGREE: Bachelor.
+LANGUAGES:.
+TOOLS:.
+EXPERIENCE: one,/,year,experience,7,years.
+
